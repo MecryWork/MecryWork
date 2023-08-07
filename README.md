@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on deepin.
-- 🌱 I’m currently learning golang.
+- 🔭 I’m currently working on nfs.
+- 🌱 I’m currently learning wine.
 - 💬 Ask me about linux,C++,golang.
 - 📫 You can find my contact information on the left.
 - 😄 : You can get to know me by reading linkmecry.cn/.
